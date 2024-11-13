@@ -1,7 +1,8 @@
-#CI/CD
+# CI/CD
 
-#DEV
+# DEV
 
+```
 gcloud container clusters get-credentials your_company-staging-cluster --region=us-central1-c
 
 kubectl create namespace your_company-dev
@@ -16,8 +17,10 @@ kubectl create secret generic your_company-filter-worker-dev-config  --from-file
 kubectl delete secret your_company-events-api-dev-config -n your_company-events-dev
 kubectl create secret generic your_company-events-api-dev-config --from-file=appsettings.secrets.json --dry-run=client -o yaml | kubectl apply -f - -n your_company-events-dev
 kubectl rollout restart deployment your_company-events-api-dev-deployment -n your_company-events-dev
+```
 
-#add role
+# add role
+```
 gcloud iam roles create StorageObjectsCreateRole \
     --project your_project \
     --title "storage.objects.create permission" \
@@ -77,8 +80,15 @@ gcloud iam roles create ContainerClusterRoleBindingsUpdate \
     --title "Container ClusterRoleBindings Update" \
     --description "This role allows to debug pod and has only the container.clusterRoleBindings.update permission" \
     --permissions container.clusterRoleBindings.update
+```
 
-## check managed certificate status
+# check managed certificate status
+```
 kubectl describe managedcertificate your_company-api-demo-managed-certificate -n your_namespace
+```
+
+# delete managed certificate status
+```
 kubectl delete managedcertificate your_company-api-demo-managed-certificate -n your_namespace
+```
 
