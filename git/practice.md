@@ -43,7 +43,6 @@ git branch (-d) – создать/удалить ветку
 git checkout (-b) – переключиться на ветку
 git merge – слить ветки
 git tag (a, m, d) – работа с тегами.
-
 ```
 
 •	Выход из Vim - жмем Esc, потом набираем :wq.
@@ -159,6 +158,8 @@ git reflog – показать перемещения HEAD
 ```
 
 Пример коммитной арифметики
+
+![image](https://github.com/user-attachments/assets/2c19a141-1ba6-4a05-ab8c-bf60bae2d0e2)
 
 # Часть 3
 
