@@ -1,11 +1,14 @@
 IT on YouTube [https://ityoutubers.com/]
 
-Чаты [https://github.com/mtdvio/ru-tech-chats]
+Р§Р°С‚С‹ [https://github.com/mtdvio/ru-tech-chats]
 
-Ulearn.me: Множество курсов по основам программирования на C# [https://ulearn.me/]
+Ulearn.me: РњРЅРѕР¶РµСЃС‚РІРѕ РєСѓСЂСЃРѕРІ РїРѕ РѕСЃРЅРѕРІР°Рј РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёСЏ РЅР° C# [https://ulearn.me/]
 
-Курс "Разработка ПО" в CS Center о жизненном цикле, методологиях и прочем (Тимофей Брыксин)[https://www.youtube.com/playlist?list=PLlb7e2G7aSpSidTs7HuqUX_NeslBsg2Mb]
-Курс "Проектирование программного обеспечения" в CS Center (Юрий Литвинов) [https://www.youtube.com/playlist?list=PLlb7e2G7aSpQwYFLXBG22XnKYXFzQ7-1K]
-Курс "ИТМО - Проектирование ПО 2021" (Андрей Суховицкий) [https://www.youtube.com/playlist?list=PLWMlibdhF88ll0BoB1Atv7mFK4jXJa7VI]
+РљСѓСЂСЃ "Р Р°Р·СЂР°Р±РѕС‚РєР° РџРћ" РІ CS Center Рѕ Р¶РёР·РЅРµРЅРЅРѕРј С†РёРєР»Рµ, РјРµС‚РѕРґРѕР»РѕРіРёСЏС… Рё РїСЂРѕС‡РµРј (РўРёРјРѕС„РµР№ Р‘СЂС‹РєСЃРёРЅ)[https://www.youtube.com/playlist?list=PLlb7e2G7aSpSidTs7HuqUX_NeslBsg2Mb]
 
-Сервисы с бесплатными лимитами для разработчиков https://github.com/ripienaar/free-for-dev
+РљСѓСЂСЃ "РџСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРµ РїСЂРѕРіСЂР°РјРјРЅРѕРіРѕ РѕР±РµСЃРїРµС‡РµРЅРёСЏ" РІ CS Center (Р®СЂРёР№ Р›РёС‚РІРёРЅРѕРІ) [https://www.youtube.com/playlist?list=PLlb7e2G7aSpQwYFLXBG22XnKYXFzQ7-1K]
+
+РљСѓСЂСЃ "РРўРњРћ - РџСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРµ РџРћ 2021" (РђРЅРґСЂРµР№ РЎСѓС…РѕРІРёС†РєРёР№) [https://www.youtube.com/playlist?list=PLWMlibdhF88ll0BoB1Atv7mFK4jXJa7VI]
+
+
+РЎРµСЂРІРёСЃС‹ СЃ Р±РµСЃРїР»Р°С‚РЅС‹РјРё Р»РёРјРёС‚Р°РјРё РґР»СЏ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ [https://github.com/ripienaar/free-for-dev]
