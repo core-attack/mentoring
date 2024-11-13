@@ -1,6 +1,6 @@
-CI/CD
+#CI/CD
 
-DEV
+#DEV
 
 gcloud container clusters get-credentials your_company-staging-cluster --region=us-central1-c
 
